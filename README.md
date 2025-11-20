@@ -100,7 +100,7 @@ I am **open to full-time roles** in AI/ML + full-stack development.
 ## 📫 **Contact Me**
 
 📧 **Email:** [olaoyefaithdata@gmail.com](mailto:olaoyefaith21@gmail.com)
-🔗 **LinkedIn:** [https://linkedin.com/in/olaoyedata](https://linkedin.com/in/Faith-Olaoye)
+🔗 **LinkedIn:** [https://linkedin.com/in/olaoyedata](https://linkedin.com/in/faith-olaoye)
 
 ---
 
