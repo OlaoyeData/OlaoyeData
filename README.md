@@ -3,28 +3,26 @@
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Machine+Learning+Engineer;Software+Developer;I+Build+AI-Powered+Applications&weight=700&pause=500&font=Montserrat" />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;I+Build+AI-Powered+Applications&weight=700&pause=500&font=Montserrat" />
 </div>
 
 
 ---
 
-# <div align="center">🚀 *Full-Stack AI Engineer | ML Engineer | Software Developer*</div>
+# <div align="center">🚀 *AI Engineer | ML Engineer*</div>
 
 ---
 
 ## 👩‍💻 **About Me**
 
-I am a **Full-Stack AI Engineer** building scalable, intelligent systems that combine:
+I am a **Machine Learning Engineer** building scalable, intelligent systems that combine:
 
 * 🤖 **AI/ML Engineering** (LLMs, NLP, CV, Deep Learning)
-* ⚙️ **Backend Engineering** (Node.js, FastAPI, Flask)
-* 🎨 **Frontend Engineering** (React, TailwindCSS)
-* ☁️ **DevOps & Deployment** (Docker, Cloud, CI/CD)
+* ⚙️ **Backend Engineering** ( FastAPI, Flask)
 
 I bring machine learning models into **production**, creating real-world AI-driven applications from end to end.
 
-I am **open to full-time roles** in AI/ML + full-stack development.
+I am **open to full-time roles** in AI/ML.
 
 ---
 
@@ -41,16 +39,6 @@ I am **open to full-time roles** in AI/ML + full-stack development.
 ## ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-gradient?logo=fastapi\&logoColor=white\&color=darkgreen)
 ![Flask](https://img.shields.io/badge/Flask-gradient?logo=flask\&logoColor=white\&color=black)
-
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-gradient?logo=react\&logoColor=white\&color=61dafb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gradient?logo=tailwindcss\&logoColor=white\&color=0ea5e9)
-
-## ☁️ DevOps
-
-![Docker](https://img.shields.io/badge/Docker-gradient?logo=docker\&logoColor=white\&color=2496ed)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gradient?logo=githubactions\&logoColor=white\&color=blue)
 
 ---
 
@@ -90,7 +78,7 @@ I am **open to full-time roles** in AI/ML + full-stack development.
 
 ## 🤝 **Open to Work**
 
-✔️ Full-Stack AI Engineer
+✔️ AI Engineer
 ✔️ AI/ML Engineer
 ✔️ LLM & NLP Engineer
 ✔️ Backend Engineer (API + AI Integration)
